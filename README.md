@@ -2,7 +2,7 @@
 DOTCOIN AUTO TAP TAP AND AUTO TASK COMPLETE
 
 ## Register
-Daftar Disini https://t.me/dotcoin_bot?start=r_1993663749
+Daftar Disini [DOT](https://t.me/dotcoin_bot?start=r_1375235586)
 
 ## instalasi
 ```shell
